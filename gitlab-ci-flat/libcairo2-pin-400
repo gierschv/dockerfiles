@@ -1,0 +1,31 @@
+Package: libcairo2
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libcairo2-dev
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libcairo-gobject2
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libcairo-script-interpreter2
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libpixman-1-0
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libpixman-1-dev
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: fontconfig-config
+Pin: release n=raring
+Pin-Priority: 400
+
+Package: libfontconfig1
+Pin: release n=raring
+Pin-Priority: 400
